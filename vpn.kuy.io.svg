@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="283px" height="104px" viewBox="0 0 283 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="216px" height="104px" viewBox="0 0 216 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>vpn.kuy.io</title>
     <defs>
-        <circle id="path-1" cx="32" cy="32" r="32"></circle>
+        <circle id="path-1" cx="29" cy="29" r="29"></circle>
     </defs>
     <g id="vpn.kuy.io" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#5D6D89" x="43.96875" y="16" width="225" height="76"></rect>
-        <circle id="Oval" fill="#FFFFFF" cx="42" cy="54" r="38"></circle>
-        <g id="KUY.io-Logo-(circle)" transform="translate(11.000000, 22.000000)">
+        <circle id="Oval" fill="#FFFFFF" cx="45" cy="52" r="39"></circle>
+        <g id="KUY.io-Logo-(circle)" transform="translate(16.000000, 23.000000)">
             <g id="Background-+-Logo-Geometry-Mask" transform="translate(0.000000, -0.000000)">
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
                 <use id="Mask" fill="#FF3860" xlink:href="#path-1"></use>
-                <circle id="Background" fill="#FF3860" mask="url(#mask-2)" cx="32" cy="32" r="32"></circle>
+                <circle id="Background" fill="#FF3860" mask="url(#mask-2)" cx="29" cy="29" r="29"></circle>
                 <g id="Logo-Geometry" mask="url(#mask-2)">
-                    <g transform="translate(9.412579, 8.275872)">
-                        <rect id="Rectangle" fill-opacity="0.57" fill="#FFFFFF" x="0.07960199" y="1.75124378" width="13.8507463" height="44.0995025"></rect>
-                        <polygon id="Rectangle-Copy-4" fill-opacity="0.17" fill="#000000" points="29.6067459 0.47761194 47.2039801 0.47761194 1.51243781 45.8507463 1.51243781 28.6102375"></polygon>
-                        <polygon id="Rectangle-Copy" fill-opacity="0.81" fill="#FFFFFF" points="29.2492856 1.23019339e-14 46.0895522 2.05032232e-15 9.14014001 36.9353234 1.67164179 29.4696729"></polygon>
-                        <polygon id="Rectangle-Copy-3" fill-opacity="0.17" fill="#000000" points="27.465975 46.8059701 49.2736318 46.8059701 1.00258298 1.11442786 0.71641791 17.3121381"></polygon>
-                        <polygon id="Rectangle-Copy-2" fill="#FFFFFF" points="26.8246772 46.9651741 47.840796 46.9651741 8.05606653 10.0298507 0.55721393 17.4693572"></polygon>
-                        <polygon id="Triangle" fill="#FFFFFF" transform="translate(11.383085, 23.960199) rotate(-270.000000) translate(-11.383085, -23.960199) " points="11.3830846 12.8159204 33.2736318 35.1044776 -10.5074627 35.1044776"></polygon>
+                    <g transform="translate(8.530150, 7.500009)">
+                        <rect id="Rectangle" fill-opacity="0.57" fill="#FFFFFF" x="0.0721393035" y="1.58706468" width="12.5522388" height="39.9651741"></rect>
+                        <polygon id="Rectangle-Copy-4" fill-opacity="0.17" fill="#000000" points="26.8311135 0.432835821 42.778607 0.432835821 1.37064677 41.5522388 1.37064677 25.9280277"></polygon>
+                        <polygon id="Rectangle-Copy" fill-opacity="0.81" fill="#FFFFFF" points="26.507165 1.11486276e-14 41.7686567 1.8581046e-15 8.28325188 33.4726368 1.51492537 26.7068911"></polygon>
+                        <polygon id="Rectangle-Copy-3" fill-opacity="0.17" fill="#000000" points="24.8910399 42.4179104 44.6542289 42.4179104 0.908590822 1.00995025 0.649253731 15.6891252"></polygon>
+                        <polygon id="Rectangle-Copy-2" fill="#FFFFFF" points="24.3098637 42.5621891 43.3557214 42.5621891 7.30081029 9.08955224 0.504975124 15.8316049"></polygon>
+                        <polygon id="Triangle" fill="#FFFFFF" transform="translate(10.315920, 21.713930) rotate(-270.000000) translate(-10.315920, -21.713930) " points="10.3159204 11.6144279 30.1542289 31.8134328 -9.52238806 31.8134328"></polygon>
                     </g>
                 </g>
             </g>
         </g>
-        <text id="VPN" font-family="Radikal-Bold, Radikal" font-size="68" font-weight="bold" fill="#FFFFFF">
-            <tspan x="107" y="79">VPN</tspan>
-        </text>
+        <g id="VPN" transform="translate(89.000000, 35.000000)" fill="#5D6D89" fill-rule="nonzero">
+            <polygon id="Path" points="35 1 24.6857542 1 17.5 18.5892617 10.3142458 1 0 1 17.4022346 37 17.5977654 37"></polygon>
+            <path d="M54.464837,1 L39,1 L39,37 L48.1252144,37 L48.1252144,25.5877551 L54.464837,25.5877551 C61.0445969,25.5877551 67,21.1306122 67,13.2938776 C67,5.45714286 61.0445969,1 54.464837,1 Z M53.5523156,8.98367347 C56.0017153,8.98367347 57.7307033,10.5510204 57.7307033,13.2938776 C57.7307033,16.1836735 56.0017153,17.6040816 53.5523156,17.6040816 L48.1252144,17.6040816 L48.1252144,8.98367347 L53.5523156,8.98367347 Z" id="Shape"></path>
+            <polygon id="Path" points="101 0.632063075 91.6403941 0.632063075 91.6403941 17.5032852 71.1970443 0 71 0 71 36.3679369 80.3596059 36.3679369 80.3596059 19.4967148 100.802956 37 101 37"></polygon>
+        </g>
     </g>
 </svg>
