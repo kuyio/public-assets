@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="283px" height="104px" viewBox="0 0 283 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>vpn.kuy.io</title>
+    <defs>
+        <circle id="path-1" cx="32" cy="32" r="32"></circle>
+    </defs>
+    <g id="vpn.kuy.io" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#5D6D89" x="43.96875" y="16" width="225" height="76"></rect>
+        <circle id="Oval" fill="#FFFFFF" cx="42" cy="54" r="38"></circle>
+        <g id="KUY.io-Logo-(circle)" transform="translate(11.000000, 22.000000)">
+            <g id="Background-+-Logo-Geometry-Mask" transform="translate(0.000000, -0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FF3860" xlink:href="#path-1"></use>
+                <circle id="Background" fill="#FF3860" mask="url(#mask-2)" cx="32" cy="32" r="32"></circle>
+                <g id="Logo-Geometry" mask="url(#mask-2)">
+                    <g transform="translate(9.412579, 8.275872)">
+                        <rect id="Rectangle" fill-opacity="0.57" fill="#FFFFFF" x="0.07960199" y="1.75124378" width="13.8507463" height="44.0995025"></rect>
+                        <polygon id="Rectangle-Copy-4" fill-opacity="0.17" fill="#000000" points="29.6067459 0.47761194 47.2039801 0.47761194 1.51243781 45.8507463 1.51243781 28.6102375"></polygon>
+                        <polygon id="Rectangle-Copy" fill-opacity="0.81" fill="#FFFFFF" points="29.2492856 1.23019339e-14 46.0895522 2.05032232e-15 9.14014001 36.9353234 1.67164179 29.4696729"></polygon>
+                        <polygon id="Rectangle-Copy-3" fill-opacity="0.17" fill="#000000" points="27.465975 46.8059701 49.2736318 46.8059701 1.00258298 1.11442786 0.71641791 17.3121381"></polygon>
+                        <polygon id="Rectangle-Copy-2" fill="#FFFFFF" points="26.8246772 46.9651741 47.840796 46.9651741 8.05606653 10.0298507 0.55721393 17.4693572"></polygon>
+                        <polygon id="Triangle" fill="#FFFFFF" transform="translate(11.383085, 23.960199) rotate(-270.000000) translate(-11.383085, -23.960199) " points="11.3830846 12.8159204 33.2736318 35.1044776 -10.5074627 35.1044776"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text id="VPN" font-family="Radikal-Bold, Radikal" font-size="68" font-weight="bold" fill="#FFFFFF">
+            <tspan x="107" y="79">VPN</tspan>
+        </text>
+    </g>
+</svg>
